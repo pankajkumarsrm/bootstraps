@@ -3,8 +3,8 @@
 <head>
 <title> Bootstrap Example</title>
 <meta charset="utf-8">
-<meta name="veiwport"containt="width =device-width.initial-scale">
-<link ref="Stylesheet"
+<meta name="veiwport"contant="width =device-width.initial-scale=1">
+<link rel="Stylesheet"
 href ="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 <script ref="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script ref="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
